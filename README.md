@@ -3,7 +3,7 @@
 # Experiment 4 — Directional Coupler Characteristics
 
 ---
- 
+
 ## Aim
 
 To measure the directivity and coupling factor for the given directional couplers.
@@ -47,33 +47,31 @@ The performance of a directional coupler is usually defined by two parameters:
 
 ## Measurements
 
-P1 = Without directional coupler=-30dB
+P1 = Without directional coupler
 
-P2 = Port 2 Output (P1 is input)=-32dB
+P2 = Port 2 Output (P1 is input)
 
-P3 = Port 3 Output (P1 is input)=-43dB
+P3 = Port 3 Output (P1 is input)
 
-P4 = Port 3 Output (P2 is input) [P1 is matched termination]=-60dB
+P4 = Port 3 Output (P2 is input) [P1 is matched termination]
 
 ---
 ## Calculation
 
-Instertion Loss (dB) = P1-P2=02dB
+Instertion Loss (dB) = P1-P2
 
-Coupling Factor (dB) = P1-P3=13dB
+Coupling Factor (dB) = P1-P3
 
-Isolation (dB) = P1-P4=30dB
+Isolation (dB) = P1-P4
 
-Directivity (dB) = P3-P4=17dB
+Directivity (dB) = P3-P4
 
 ---
 
 ## Observation
 
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/3af65cd7-2fa3-4ebd-b248-f5798e7a4cb7" />
 
-<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 38 53 AM" src="https://github.com/user-attachments/assets/60fe1941-36db-49c7-9ce5-ccb792e1316c" />
-
-<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 38 53 AM (1)" src="https://github.com/user-attachments/assets/25419dec-1337-4d0e-8dfe-1ea8e5cdbd02" />
 
 
 ## Precautions
@@ -85,4 +83,5 @@ Directivity (dB) = P3-P4=17dB
 ---
 
 ## Conclusion
-The performance characteristics of a directional coupler were successfully measured using a microwave test bench.
+The directional coupler was studied successfully, and its working principle was verified. The coupling, isolation, directivity, and transmission characteristics were observed. Thus, the directional coupler was found to be useful for sampling and measuring microwave power in transmission systems.
+
